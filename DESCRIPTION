@@ -1,0 +1,15 @@
+Package: boulderio
+Type: Package
+Title: Read and write Boulder-IO files
+Version: 0.1.0
+Author: Paul Jensen
+Maintainer: Jensen Lab <software@jensenlab.net>
+Description: Read and write text files containing records in the
+  Boulder-IO format.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: stringr
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1

@@ -1,0 +1,16 @@
+Name=Lincoln Stein
+Home=/u/bush202/lds32
+Organization=Cold Spring Harbor Laboratory
+Login=lds32
+Password_age=20
+Password_expires=60
+Alias=lstein
+Alias=steinl
+=
+Name=Leigh Deacon
+Home=/u/bush202/tanager
+Organization=Cold Spring Harbor Laboratory
+Login=tanager
+Password_age=2
+Password_expires=60
+=
